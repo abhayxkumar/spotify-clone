@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Spotify Web Clone
+
+<a href="https://spotify-web-clone.vercel.app/"><strong>🛑 *LIVE DEMO* 🛑</strong></a>
+
+<hr>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
